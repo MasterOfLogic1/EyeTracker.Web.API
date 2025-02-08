@@ -1,6 +1,9 @@
 # EyeTracker.Web.API
 This is the eyetracter api that will potentially serve the eye tracking web app
 
+![image](https://github.com/user-attachments/assets/f42da3dc-caa3-4ed0-b56d-e8dc9b91cd92)
+
+
 ```markdown
 # EyeTracker.WebAPI
 
