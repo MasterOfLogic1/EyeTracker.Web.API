@@ -191,29 +191,4 @@ curl -X GET http://localhost:8000/api/data/ecam/ \
 
 ---
 
-## Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Commit your changes with clear and descriptive commit messages.
-4. Open a pull request detailing your changes.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## Contact
-
-For any questions or suggestions, please contact [your-email@example.com](mailto:your-email@example.com).
-
----
-
-Happy tracking!  
-The EyeTracker.WebAPI Team
 ```
