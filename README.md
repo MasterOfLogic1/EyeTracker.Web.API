@@ -1,5 +1,7 @@
 # EyeTracker.Web.API
-This is the eyetracter api that will potentially serve the eye tracking web app
+EyeTracker.WebAPI is RESTful backend service tailored for eye tracking web applications. Built on the OpenAPI 3.0 specification, the API provides secure endpoints for user management—such as login, registration, and JWT-based authentication—ensuring that only authorized users can access its features. In addition to managing user accounts, the API specializes in handling flight instrumentation data, offering dedicated endpoints to create and retrieve real-time data for critical cockpit modules like ECAM, EFIS, and PFD.
+
+This versatile API is designed to facilitate seamless communication between an  tracking application web and its data sources, making it an ideal solution for integrating high-fidelity eye tracking with advanced cockpit metrics. Whether you’re developing a flight simulation, monitoring pilot performance, or creating innovative aviation applications, EyeTracker.WebAPI provides a secure, scalable, and easy-to-use platform to power your data-driven insights
 
 ![image](https://github.com/user-attachments/assets/f42da3dc-caa3-4ed0-b56d-e8dc9b91cd92)
 
